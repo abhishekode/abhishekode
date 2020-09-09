@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-title: SulthanNK 
+title: Abhisekpndy17 
 date: '2020-17-05'
 spoiler: Short and Sweet Realtime Readme Template
 categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'SulthanNK'
+githubUsername: 'Abhisekpndy17'
 ---
 
-## Sulthan Mohaideen 👨‍💻
+## Abhishek Pandey 👨‍💻
 [![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK) 
 [![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/)](https://www.linkedin.com/in/sulthannk/) 
 [![Dev Badge](https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk)](https://dev.to/sulthannk) 
@@ -38,11 +38,11 @@ githubUsername: 'SulthanNK'
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Abhisekpndy17&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> Kunal Raghav
+> Abhishek Pandey
 
-⭐️ From [SulthanNK](http://www.github.com/SulthanNK)
+⭐️ From [Abhisekpndy17](http://www.github.com/Abhisekpndy17)
