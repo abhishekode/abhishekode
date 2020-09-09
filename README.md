@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
----
-title: Abhisekpndy17 
-date: '2020-17-05'
-spoiler: Short and Sweet Realtime Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'Abhisekpndy17'
----
 
 ## Abhishek Pandey 👨‍💻
 [![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK) 
@@ -38,7 +31,7 @@ githubUsername: 'Abhisekpndy17'
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Abhisekpndy17&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhisekpndy17.Abhisekpndy17) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Abhishek Pandey
