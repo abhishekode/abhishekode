@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Abhisekpndy17/abhisekpndy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abhishekode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Abhisekpndy17&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=abhishekode&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhisekpndy17.Abhisekpndy17) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekode.abhishekode) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Abhishek Pandey
 
-⭐️ From [Abhisekpndy17](http://www.github.com/Abhisekpndy17)
+⭐️ From [Abhisekpndy17](http://www.github.com/abhishekode)
