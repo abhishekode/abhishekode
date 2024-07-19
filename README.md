@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Abhishek Pandey
 
-⭐️ From [Abhisekpndy17](http://www.github.com/abhishekode)
+⭐️ From [abhishekode](http://www.github.com/abhishekode)
