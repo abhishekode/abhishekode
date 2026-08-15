@@ -51,6 +51,11 @@ Currently working primarily with **Next.js, React, Node.js, NestJS, PostgreSQL, 
 **AI Stack:** OpenAI · Gemini · Claude · LangChain · RAG · Embeddings · pgvector · Ollama
 
 ---
+![github stats](https://github-readme-stats.vercel.app/api?username=abhishekode&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekode.abhishekode) 
+
+---
 
 ## 🔨 Currently Building
 
