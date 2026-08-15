@@ -118,7 +118,7 @@ I'm particularly interested in opportunities involving:
 If you're building something interesting around **AI, SaaS, web infrastructure or developer tools**, I'd love to connect.
 
 * 💼 GitHub: **[abhisekode](https://github.com/abhisekode)**
-* 📸 Instagram: **[@abhishekpandev]([https://www.instagram.com/abhishek_pandev/])**
+* 📸 Instagram: **[@abhishekpandev](https://www.instagram.com/abhishek_pandev/)**
 
 ---
 
