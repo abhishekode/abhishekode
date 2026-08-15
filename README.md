@@ -39,7 +39,7 @@ Currently working primarily with **Next.js, React, Node.js, NestJS, PostgreSQL, 
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,kubernetes,nginx" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,linux,docker,kubernetes,aws,nginx" />
 </p>
 
 ### AI / GenAI
