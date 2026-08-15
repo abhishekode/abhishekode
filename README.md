@@ -51,11 +51,6 @@ Currently working primarily with **Next.js, React, Node.js, NestJS, PostgreSQL, 
 **AI Stack:** OpenAI · Gemini · Claude · LangChain · RAG · Embeddings · pgvector · Ollama
 
 ---
-![github stats](https://github-readme-stats.vercel.app/api?username=abhishekode&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekode.abhishekode) 
-
----
 
 ## 🔨 Currently Building
 
@@ -102,15 +97,6 @@ An auction management web application with authentication, role-based access and
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekode&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekode&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🎯 What I'm Interested In
 
 ```text
@@ -132,7 +118,7 @@ I'm particularly interested in opportunities involving:
 If you're building something interesting around **AI, SaaS, web infrastructure or developer tools**, I'd love to connect.
 
 * 💼 GitHub: **[abhisekode](https://github.com/abhisekode)**
-* 📸 Instagram: **[@abhishekpandey_d3](https://instagram.com/abhishekpandey_d3)**
+* 📸 Instagram: **[@abhishekpandev]([https://www.instagram.com/abhishek_pandev/])**
 
 ---
 
